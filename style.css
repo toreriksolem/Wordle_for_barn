@@ -105,3 +105,16 @@ body {
   background-color: #538d4e !important;
   border:none !important;
 }
+
+/* Keyword values */
+text-size-adjust: none;
+text-size-adjust: auto;
+
+/* <percentage> value */
+text-size-adjust: 80%;
+
+/* Global values */
+text-size-adjust: inherit;
+text-size-adjust: initial;
+text-size-adjust: revert;
+text-size-adjust: unset;
